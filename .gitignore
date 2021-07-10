@@ -1,2 +1,6 @@
 Contacto.html
 firebase-debug.log
+/.firebase
+.github/workflows
+.firebaserc
+firebase.json
