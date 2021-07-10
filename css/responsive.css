@@ -1,0 +1,15 @@
+/*Dispositivos Moviles*/
+
+@media (max-width: 420px) {
+
+    #Contenido {
+        width: 95%;
+        margin: 0px auto;
+    }
+
+    .parrafos {
+        width: 80%;
+        margin: auto;
+        padding: 0px;
+    }
+}
